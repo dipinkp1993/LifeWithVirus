@@ -60,7 +60,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#covid19">covid19</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#uses">Uses</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#cases">Cases</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#symtoms">Symtoms</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#symtoms">Symptoms</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#prevention">Prevention</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#photos">Photos</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experts">Experts</a></li>
